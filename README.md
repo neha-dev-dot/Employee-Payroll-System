@@ -1,17 +1,21 @@
-The Employee Payroll System is a Java-based application designed to manage employee payroll operations efficiently. It provides functionalities for adding, removing, and displaying employee information, as well as calculating salaries for both full-time and part-time employees.
+# Employee Payroll System
 
-Features:
-Add Employees: Input details for full-time or part-time employees, including name, ID, and salary information.
+The **Employee Payroll System** is a Java application designed to efficiently manage payroll operations for employees. This system supports functionalities such as adding new employees, calculating salaries, and maintaining records for both full-time and part-time staff.
 
-Remove Employees: Delete employee records based on their ID.
+## Features
 
-Display Employee Information: View details of all employees in the system.
+- **Employee Management**
+  - Add full-time and part-time employees with relevant details like name, ID, and salary structure.
+  - Remove employees from the system using their unique IDs.
+  - View details of all registered employees.
+  
+- **Salary Computation**
+  - Full-time employees: Fixed monthly salary.
+  - Part-time employees: Computed based on hours worked and hourly rate.
 
-Salary Calculation: Compute salaries for full-time employees based on a fixed monthly salary, and for part-time employees based on hours worked and hourly rate.
+- **User-Friendly Console Interface**
 
-Technologies Used:
+## Technologies Used
 
-Programming Language: Java
-
-Development Environment: Integrated Development Environment (IDE) compatible with Java
-
+- **Programming Language:** Java
+- **Development Environment:** Any IDE compatible with Java
