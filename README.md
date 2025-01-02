@@ -1,6 +1,6 @@
 # Employee Payroll System
 
-The **Employee Payroll System** is a Java application designed to efficiently manage payroll operations for employees. This system supports functionalities such as adding new employees, calculating salaries, and maintaining records for both full-time and part-time staff.
+The **Employee Payroll System** is a Java application designed to efficiently manage payroll operations for employees. This system supports functionalities such as adding new employees, calculating salaries, and maintaining records for both full-time and part-time staff. 
 
 ## Features
 
